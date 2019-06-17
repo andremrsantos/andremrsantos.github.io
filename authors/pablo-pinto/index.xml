@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo Pinto on PhD. André M. Ribeiro-dos-Santos</title>
+    <link>/authors/pablo-pinto/</link>
+    <description>Recent content in Pablo Pinto on PhD. André M. Ribeiro-dos-Santos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>A.M. Ribeiro-dos-Santos &amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/pablo-pinto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mirnome expression analysis reveals new Players on leprosy immune Physiopathology</title>
+      <link>/publication/salgado-2018-mirnome/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/salgado-2018-mirnome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The comprehensive expression analysis of circular RNAs in gastric cancer and its association with field cancerization</title>
+      <link>/publication/vidal-2017-comprehensive/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/vidal-2017-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
