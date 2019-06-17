@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabiano Cordeiro Moreira on PhD. André M. Ribeiro-dos-Santos</title>
+    <link>/authors/fabiano-cordeiro-moreira/</link>
+    <description>Recent content in Fabiano Cordeiro Moreira on PhD. André M. Ribeiro-dos-Santos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>A.M. Ribeiro-dos-Santos &amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/fabiano-cordeiro-moreira/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mirnome expression analysis reveals new Players on leprosy immune Physiopathology</title>
+      <link>/publication/salgado-2018-mirnome/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/salgado-2018-mirnome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TargetCompare: A web interface to compare simultaneous miRNAs targets</title>
+      <link>/publication/moreira-2014-targetcompare/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/moreira-2014-targetcompare/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
