@@ -1,104 +1,157 @@
 baseURL: "https://andremrsantos.github.io" 
-title: André M Ribeiro-dos-Santos
-theme: PaperMod
+title: Ribeiro-dos-Santos Profile
+theme: ["PaperMod", "hugo-simplecite"]
+pagination.pagerSize: 5
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["blog", "papers", "classes"]
 
-taxonomies:
-    tag: tags
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  title: Ribeiro-dos-Santos Profile
+  description: "Ribeiro-dos-Santos Profile"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: André M. Ribeiro-dos-Santos
+  DateFormat: "January 2, 2006"
+  defaultTheme: light # dark, light
+  disableThemeToggle: false
+
+  # ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  # ShowBreadCrumbs: true
+  # ShowWordCount: true
+
+  UseHugoToc: true
+  comments: false
+  hideMeta: false
+  hideSummary: false
+  ShowToc: true
+  TocOpen: true
+  
+  comments: true
+
+  MainSections: ["papers", "classes", "blog"]
+
+  profileMode:
+    enabled: true
+    title: PhD. André M. Ribeiro-dos-Santos
+    subtitle: "Bioinformatician working in gene regulation, population genetics, and machine learning. Currently working as visiting professor in Universidade Federal do Pará (UFPA, Belem - PA, BR)."
+    imageUrl: "img/profile.jpeg"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Publications
+        url: papers/
+        weight: 5
+      - name: Blog
+        url: blog/
+        weight: 2
+      - name: Github
+        url: https://github.com/andremrsantos
+        weight: 1
+      - name: Scholar
+        url: https://scholar.google.com/citations?user=lMC_0XUAAAAJ
+        weight: 1
+  
+  homeInfoParams:
+    Title: PhD. André M. Ribeiro-dos-Santos
+    Content: "Bioinformatician working in gene regulation, population genetics, and machine learning. Currently working as visiting professor in Universidade Federal do Pará (UFPA, Belem - PA, BR)."
+    
+  socialIcons:
+    - name: bluesky
+      url: https://bsky.app/profile/andremrsantos.bsky.social
+    - name: github
+      url: https://github.com/andremrsantos
+    - name: googlescholar
+      url: https://scholar.google.com/citations?user=lMC_0XUAAAAJ
 
 menu:
-    main:
-        - name: Papers
+  main:
+    - name: Blog
+      url: blog/
+      weight: 1
+    - name: Publications
+      url: papers/
+      weight: 2
+    - name: Classes
+      url: classes/
+      weight: 3
+    - name: Github
+      url: https://github.com/andremrsantos
+      weight: 4
+    - name: Scholar
+      url: https://scholar.google.com/citations?user=lMC_0XUAAAAJ
+      weight: 5
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn 
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
+
+languages:
+  en:
+    # contentDir: content/en
+    languageCode: en-US
+    languageName: English
+    weight: 10
+    enable: true
+  pt-br:
+    # contentDir: content/ptbr
+    languageCode: pt-BR
+    languageName: Português Brasileiro
+    weight: 20
+    ## Menu translations
+    params.profileMode:
+      enable: true
+      subtitle: "Professor Visitante na Pós-Graduação em Genética e Biologia Molecular (UFPA, Belém, PA - BR). Bioinformata desenvolvendo pesquisas em Regulação Gênica, Genética de Populações e Aprendizado de Máquina."
+      buttons:
+        - name: Publicações
+          url: papers/
+          weight: 5
+        - name: Classes
+          url: classes/
+          weight: 4
+        - name: Blog
+          url: blog/
+          weight: 2
+        - name: Github
+          url: https://github.com/andremrsantos
+          weight: 1
+        - name: Scholar
+          url: https://scholar.google.com/citations?user=lMC_0XUAAAAJ
+          weight: 1
+    menus:
+      main:
+        - name: Blog
+          url: blog/
+          weight: 1
+        - name: Publicações
           url: papers/
           weight: 2
         - name: Classes
-          url: Classes/
+          url: classes/
           weight: 3
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
-
-params:
-    description: "Visiting professor UFPA."
-    author: André M Ribeiro-dos-Santos
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["papers","classes"]
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: PhD.
-          subtitle: "Visiting professor UFPA."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          buttons:
-            - name: Papers
-              url: papers/
-            - name: Classes
-              url: classes/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
-
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
-      iconHeight: 18
-
-markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+        - name: Github
+          url: https://github.com/andremrsantos
+          weight: 4
+        - name: Scholar
+          url: https://scholar.google.com/citations?user=lMC_0XUAAAAJ
+          weight: 5

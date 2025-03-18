@@ -1,0 +1,3137 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Andre M"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Jorge Estefano Santana"
+      },
+      {
+        "family": "Almeida",
+        "given": "Renan"
+      },
+      {
+        "family": "Alencar",
+        "given": "Dayse O"
+      },
+      {
+        "family": "Barbosa",
+        "given": "Maria Silvanira"
+      },
+      {
+        "family": "Gusmao",
+        "given": "Leonor"
+      },
+      {
+        "family": "Silva Jr",
+        "given": "Wilson A"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Sandro J"
+      },
+      {
+        "family": "Silva",
+        "given": "Artur"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Andrea"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "PLoS One",
+    "id": "ribeiro2013high",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "e83340",
+    "publisher": "Public Library of Science San Francisco, USA",
+    "title": "High-throughput sequencing of a south american amerindian",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "author": [
+      {
+        "family": "Moreira",
+        "given": "Fabiano Cordeiro"
+      },
+      {
+        "family": "Dustan",
+        "given": "Bruno"
+      },
+      {
+        "family": "Hamoy",
+        "given": "Igor G"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "Andrea Ribeiro"
+      }
+    ],
+    "container-title": "Bioinformation",
+    "id": "moreira2014targetcompare",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "602",
+    "title": "TargetCompare: A web interface to compare simultaneous miRNAs targets",
+    "title-short": "TargetCompare",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Hamoy",
+        "given": "Igor G"
+      },
+      {
+        "family": "Ribeiro-Dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Alvarez",
+        "given": "Luiz"
+      },
+      {
+        "family": "Barbosa",
+        "given": "Silvanira"
+      },
+      {
+        "family": "Silva",
+        "given": "Artur"
+      },
+      {
+        "family": "Santos",
+        "given": "Sidney"
+      },
+      {
+        "family": "Gusmão",
+        "given": "Leonor"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Andrea"
+      }
+    ],
+    "container-title": "Bioinformatics and Biology insights",
+    "id": "hamoy2014protocol",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "BBI-S14623",
+    "publisher": "SAGE Publications Sage UK: London, England",
+    "title": "A protocol for mtGenome analysis on large sample numbers",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "author": [
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "dropping-particle": "da",
+        "family": "Silva",
+        "given": "Vandeclécio L"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Jorge ES"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Sandro J"
+      }
+    ],
+    "container-title": "BMC genomics",
+    "id": "ribeiro2015populational",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "1-11",
+    "publisher": "BioMed Central",
+    "title": "Populational landscape of INDELs affecting transcription factor-binding sites in humans",
+    "type": "article-journal",
+    "volume": "16"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavalcante",
+        "given": "Giovanna Chaves"
+      },
+      {
+        "family": "Freitas",
+        "given": "Natalle Do Socorro Da Costa"
+      },
+      {
+        "family": "Ribeiro-Dos-Santos",
+        "given": "Andre Mauricio"
+      },
+      {
+        "family": "De Carvalho",
+        "given": "Darlen Cardoso"
+      },
+      {
+        "family": "Da Silva",
+        "given": "Ellen Moreno"
+      },
+      {
+        "family": "De Assumpcao",
+        "given": "Paulo Pimentel"
+      },
+      {
+        "family": "Ribeiro-Dos-Santos",
+        "given": "Andrea"
+      },
+      {
+        "family": "Santos",
+        "given": "Sidney"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "Ney Pereira Carneiro"
+      }
+    ],
+    "container-title": "Anticancer Research",
+    "id": "cavalcante2015investigation",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "6971-6977",
+    "publisher": "International Institute of Anticancer Research",
+    "title": "Investigation of potentially deleterious alleles for response to cancer treatment with 5-fluorouracil",
+    "type": "article-journal",
+    "volume": "35"
+  },
+  {
+    "author": [
+      {
+        "family": "El-Husny",
+        "given": "Antonette"
+      },
+      {
+        "family": "Raiol-Moraes",
+        "given": "Milene"
+      },
+      {
+        "family": "Amador",
+        "given": "Marcos"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Montagnini",
+        "given": "André"
+      },
+      {
+        "family": "Barbosa",
+        "given": "Silvanira"
+      },
+      {
+        "family": "Silva",
+        "given": "Artur"
+      },
+      {
+        "family": "Assumpção",
+        "given": "Paulo"
+      },
+      {
+        "family": "Ishak",
+        "given": "Geraldo"
+      },
+      {
+        "family": "Santos",
+        "given": "Sidney"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Genetics and Molecular Biology",
+    "id": "el2016cdh1",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "189-198",
+    "publisher": "Sociedade Brasileira de Genética",
+    "title": "CDH1 mutations in gastric cancer patients from northern brazil identified by next-generation sequencing (NGS)",
+    "type": "article-journal",
+    "volume": "39"
+  },
+  {
+    "author": [
+      {
+        "family": "Fonseca",
+        "given": "André L"
+      },
+      {
+        "dropping-particle": "da",
+        "family": "Silva",
+        "given": "Vandeclécio L"
+      },
+      {
+        "dropping-particle": "da",
+        "family": "Fonsêca",
+        "given": "Marbella M"
+      },
+      {
+        "family": "Meira",
+        "given": "Isabella TJ"
+      },
+      {
+        "dropping-particle": "da",
+        "family": "Silva",
+        "given": "Thayná E"
+      },
+      {
+        "family": "Kroll",
+        "given": "José E"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Freitas",
+        "given": "Cléber R"
+      },
+      {
+        "family": "Furtado",
+        "given": "Raimundo"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Jorge E"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "International journal of genomics",
+    "id": "fonseca2016bioinformatics",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "8346198",
+    "publisher": "Hindawi Publishing Corporation",
+    "title": "Bioinformatics analysis of the human surfaceome reveals new targets for a variety of tumor types",
+    "type": "article-journal",
+    "volume": "2016"
+  },
+  {
+    "author": [
+      {
+        "family": "Neves",
+        "given": "Filipe"
+      },
+      {
+        "family": "Toda",
+        "given": "Armando"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André"
+      },
+      {
+        "family": "Carmo",
+        "given": "Ricardo"
+      },
+      {
+        "family": "Moreira",
+        "given": "Fabiano"
+      },
+      {
+        "family": "Stransky",
+        "given": "Beatriz"
+      },
+      {
+        "dropping-particle": "dos",
+        "family": "Santos",
+        "given": "Ândrea"
+      }
+    ],
+    "collection-number": "1",
+    "container-title": "Brazilian symposium on computers in education (simpósio brasileiro de informática na educação-SBIE)",
+    "id": "neves2016desenvolvimento",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "1295",
+    "title": "Desenvolvimento de um MOOC gamificado para ensino de bioinformática",
+    "type": "paper-conference",
+    "volume": "27"
+  },
+  {
+    "author": [
+      {
+        "family": "Vidal",
+        "given": "Amanda Ferreira"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Vinasco-Sandoval",
+        "given": "Tatiana"
+      },
+      {
+        "family": "Magalhães",
+        "given": "Leandro"
+      },
+      {
+        "family": "Pinto",
+        "given": "Pablo"
+      },
+      {
+        "family": "Anaissi",
+        "given": "Ana KM"
+      },
+      {
+        "family": "Demachki",
+        "given": "Samia"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Assumpção",
+        "given": "Paulo Pimentel"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "Sidney Emanuel Batista"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Ândrea"
+      }
+    ],
+    "container-title": "Scientific Reports",
+    "id": "vidal2017comprehensive",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "14551",
+    "publisher": "Nature Publishing Group UK London",
+    "title": "The comprehensive expression analysis of circular RNAs in gastric cancer and its association with field cancerization",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
+    "author": [
+      {
+        "family": "Vialle",
+        "given": "Ricardo Assunção"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Jorge Estefano Santana"
+      },
+      {
+        "family": "Lopes",
+        "given": "Katia de Paiva"
+      },
+      {
+        "family": "Teixeira",
+        "given": "Diego Gomes"
+      },
+      {
+        "family": "Alves Sobrinho",
+        "given": "Pitágoras de Azevedo"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Furtado",
+        "given": "Carolina"
+      },
+      {
+        "family": "Sakamoto",
+        "given": "Tetsu"
+      },
+      {
+        "family": "Oliveira Silva",
+        "given": "Fábio Augusto"
+      },
+      {
+        "family": "Herculano Corrêa de Oliveira",
+        "given": "Edivaldo"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Genome biology and evolution",
+    "id": "vialle2018whole",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "2366-2379",
+    "publisher": "Oxford University Press",
+    "title": "Whole genome sequencing of the pirarucu (arapaima gigas) supports independent emergence of major teleost clades",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Salgado",
+        "given": "Claudio Guedes"
+      },
+      {
+        "family": "Pinto",
+        "given": "Pablo"
+      },
+      {
+        "family": "Bouth",
+        "given": "Raquel Carvalho"
+      },
+      {
+        "family": "Gobbo",
+        "given": "Angélica Rita"
+      },
+      {
+        "family": "Messias",
+        "given": "Ana Caroline Cunha"
+      },
+      {
+        "family": "Sandoval",
+        "given": "Tatiana Vinasco"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "Andre Mauricio Ribeiro"
+      },
+      {
+        "family": "Moreira",
+        "given": "Fabiano Cordeiro"
+      },
+      {
+        "family": "Vidal",
+        "given": "Amanda Ferreira"
+      },
+      {
+        "family": "Goulart",
+        "given": "Luiz Ricardo"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Frontiers in Immunology",
+    "id": "salgado2018mirnome",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "463",
+    "publisher": "Frontiers Media SA",
+    "title": "miRNome expression analysis reveals new players on leprosy immune physiopathology",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavalcante",
+        "given": "Giovanna C"
+      },
+      {
+        "family": "Amador",
+        "given": "Marcos AT"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "André M Ribeiro"
+      },
+      {
+        "family": "Carvalho",
+        "given": "Darlen C"
+      },
+      {
+        "family": "Andrade",
+        "given": "Roberta B"
+      },
+      {
+        "family": "Pereira",
+        "given": "Esdras EB"
+      },
+      {
+        "family": "Fernandes",
+        "given": "Marianne R"
+      },
+      {
+        "family": "Costa",
+        "given": "Danielle F"
+      },
+      {
+        "family": "Santos",
+        "given": "Ney PC"
+      },
+      {
+        "family": "Assumpção",
+        "given": "Paulo P"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "World Journal of Gastroenterology",
+    "id": "cavalcante2017analysis",
+    "issue": "48",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "8533",
+    "title": "Analysis of 12 variants in the development of gastric and colorectal cancers",
+    "type": "article-journal",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Jihoon"
+      },
+      {
+        "family": "Shimizu",
+        "given": "Chisato"
+      },
+      {
+        "family": "Kingsmore",
+        "given": "Stephen F"
+      },
+      {
+        "family": "Veeraraghavan",
+        "given": "Narayanan"
+      },
+      {
+        "family": "Levy",
+        "given": "Eric"
+      },
+      {
+        "family": "Ribeiro dos Santos",
+        "given": "Andre M"
+      },
+      {
+        "family": "Yang",
+        "given": "Hai"
+      },
+      {
+        "family": "Flatley",
+        "given": "Jay"
+      },
+      {
+        "family": "Hoang",
+        "given": "Long Truong"
+      },
+      {
+        "family": "Hibberd",
+        "given": "Martin L"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "PLoS One",
+    "id": "kim2017whole",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "e0170977",
+    "publisher": "Public Library of Science San Francisco, CA USA",
+    "title": "Whole genome sequencing of an african american family highlights toll like receptor 6 variants in kawasaki disease susceptibility",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "de",
+        "family": "Assumpção",
+        "given": "Paulo Pimentel"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "Sidney Emanuel Batista"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "Ândrea Kely Campos Ribeiro"
+      },
+      {
+        "family": "Demachki",
+        "given": "Samia"
+      },
+      {
+        "family": "Khayat",
+        "given": "André Salim"
+      },
+      {
+        "family": "Ishak",
+        "given": "Geraldo"
+      },
+      {
+        "family": "Calcagno",
+        "given": "Danielle Queiroz"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "Ney Pereira Carneiro"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Assumpção",
+        "given": "Carolina Baraúna"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Assumpção",
+        "given": "Mônica Baraúna"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Gastric Cancer",
+    "id": "de2016adjacent",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "1024-1025",
+    "publisher": "Springer Japan",
+    "title": "The adjacent to tumor sample trap",
+    "type": "article-journal",
+    "volume": "19"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "de",
+        "family": "Carvalho",
+        "given": "Darlen Cardoso"
+      },
+      {
+        "family": "Wanderley",
+        "given": "Alayde Vieira"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "André Mauricio Ribeiro"
+      },
+      {
+        "family": "Fernandes",
+        "given": "Marianne Rodrigues"
+      },
+      {
+        "family": "Leitão",
+        "given": "Luciana Pereira Colares"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Carvalho Junior",
+        "given": "João Augusto Nunes"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Tatiane Piedade"
+      },
+      {
+        "family": "Khayat",
+        "given": "André Salim"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "Sidney Emanuel Batista"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Assumpção",
+        "given": "Paulo Pimentel"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Leukemia Research",
+    "id": "de2018pharmacogenomics",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "10-13",
+    "publisher": "Pergamon",
+    "title": "Pharmacogenomics and variations in the risk of toxicity during the consolidation/maintenance phases of the treatment of pediatric b-cell leukemia patients from an admixed population in the brazilian amazon",
+    "type": "article-journal",
+    "volume": "74"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "de",
+        "family": "Assumpção",
+        "given": "Paulo Pimentel"
+      },
+      {
+        "family": "Khayat",
+        "given": "André Salim"
+      },
+      {
+        "family": "Araújo",
+        "given": "Taı́ssa Maı́ra Thomaz"
+      },
+      {
+        "family": "Barra",
+        "given": "Williams Fernandes"
+      },
+      {
+        "family": "Ishak",
+        "given": "Geraldo"
+      },
+      {
+        "family": "Ramos",
+        "given": "Aline Maria Pereira Cruz"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "Sidney Emanuel Batista"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "Ândrea Kely Campos Ribeiro"
+      },
+      {
+        "family": "Demachki",
+        "given": "Samia"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Assumpção",
+        "given": "Paula Baraúna"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Chinese Journal of Cancer Research",
+    "id": "de2018traps",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "564",
+    "title": "Traps and trumps from adjacent-to-tumor samples in gastric cancer research",
+    "type": "article-journal",
+    "volume": "30"
+  },
+  {
+    "author": [
+      {
+        "family": "Pereira",
+        "given": "Adenilson Leão"
+      },
+      {
+        "family": "Magalhães",
+        "given": "Leandro"
+      },
+      {
+        "family": "Moreira",
+        "given": "Fabiano Cordeiro"
+      },
+      {
+        "family": "Reis-das-Mercês",
+        "given": "Laı́s"
+      },
+      {
+        "family": "Vidal",
+        "given": "Amanda Ferreira"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André Maurı́cio"
+      },
+      {
+        "family": "Demachki",
+        "given": "Samia"
+      },
+      {
+        "family": "Anaissi",
+        "given": "Ana Karyssa Mendes"
+      },
+      {
+        "family": "Burbano",
+        "given": "Rommel Mario Rodrı́guez"
+      },
+      {
+        "family": "Albuquerque",
+        "given": "Paulo"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Journal of Cancer",
+    "id": "pereira2019epigenetic",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "1560",
+    "title": "Epigenetic field cancerization in gastric cancer: microRNAs as promising biomarkers",
+    "title-short": "Epigenetic field cancerization in gastric cancer",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Pereira",
+        "given": "Adenilson"
+      },
+      {
+        "family": "Moreira",
+        "given": "Fabiano"
+      },
+      {
+        "family": "Vinasco-Sandoval",
+        "given": "Tatiana"
+      },
+      {
+        "family": "Cunha",
+        "given": "Adenard"
+      },
+      {
+        "family": "Vidal",
+        "given": "Amanda"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Pinto",
+        "given": "Pablo"
+      },
+      {
+        "family": "Magalhães",
+        "given": "Leandro"
+      },
+      {
+        "family": "Assumpção",
+        "given": "Mônica"
+      },
+      {
+        "family": "Demachki",
+        "given": "Samia"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Frontiers in Genetics",
+    "id": "pereira2019mirnome",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "592",
+    "publisher": "Frontiers Media SA",
+    "title": "miRNome reveals new insights into the molecular biology of field cancerization in gastric cancer",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavalcante",
+        "given": "Giovanna Chaves"
+      },
+      {
+        "family": "Marinho",
+        "given": "Anderson NR"
+      },
+      {
+        "family": "Anaissi",
+        "given": "Ana Karyssa"
+      },
+      {
+        "family": "Vinasco-Sandoval",
+        "given": "Tatiana"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André"
+      },
+      {
+        "family": "Vidal",
+        "given": "Amanda Ferreira"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Araújo",
+        "given": "Gilderlanio S"
+      },
+      {
+        "family": "Demachki",
+        "given": "Samia"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Ândrea"
+      }
+    ],
+    "container-title": "Scientific reports",
+    "id": "cavalcante2019whole",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "15716",
+    "publisher": "Nature Publishing Group UK London",
+    "title": "Whole mitochondrial genome sequencing highlights mitochondrial impact in gastric cancer",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
+    "author": [
+      {
+        "family": "Carvalho",
+        "given": "Darlen Cardoso"
+      },
+      {
+        "family": "Wanderley",
+        "given": "Alayde Vieira"
+      },
+      {
+        "family": "Junior",
+        "given": "Fernando Augusto Rodrigues Mello Junior"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "André Mauricio Ribeiro"
+      },
+      {
+        "family": "Leitão",
+        "given": "Luciana Pereira Colares"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Tatiane Piedade"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Magalhães",
+        "given": "Leandro Lopes"
+      },
+      {
+        "family": "Fernandes",
+        "given": "Marianne Rodrigues"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Carvalho Junior",
+        "given": "João Augusto Nunes"
+      },
+      {
+        "family": "Khayat",
+        "given": "André Salim"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Leukemia research reports",
+    "id": "carvalho2020association",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "100188",
+    "publisher": "Elsevier",
+    "title": "Association of genes ARID5B, CEBPE and folate pathway with acute lymphoblastic leukemia in a population from the brazilian amazon region",
+    "type": "article-journal",
+    "volume": "13"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodrigues",
+        "given": "Juliana Carla Gomes"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Tatiane Piedade"
+      },
+      {
+        "family": "Pastana",
+        "given": "Lucas Favacho"
+      },
+      {
+        "family": "Ribeiro dos Santos",
+        "given": "André Maurı́cio"
+      },
+      {
+        "family": "Fernandes",
+        "given": "Marianne Rodrigues"
+      },
+      {
+        "family": "Pinto",
+        "given": "Pablo"
+      },
+      {
+        "family": "Wanderley",
+        "given": "Alayde Vieira"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Sandro José"
+      },
+      {
+        "family": "Kroll",
+        "given": "José Eduardo"
+      },
+      {
+        "family": "Pereira",
+        "given": "Adenilson Leão"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "PloS one",
+    "id": "rodrigues2020identification",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "e0231651",
+    "publisher": "Public Library of Science San Francisco, CA USA",
+    "title": "Identification of NUDT15 gene variants in amazonian amerindians and admixed individuals from northern brazil",
+    "type": "article-journal",
+    "volume": "15"
+  },
+  {
+    "author": [
+      {
+        "family": "Maurano",
+        "given": "Matthew T"
+      },
+      {
+        "family": "Ramaswami",
+        "given": "Sitharam"
+      },
+      {
+        "family": "Zappile",
+        "given": "Paul"
+      },
+      {
+        "family": "Dimartino",
+        "given": "Dacia"
+      },
+      {
+        "family": "Boytard",
+        "given": "Ludovic"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Vulpescu",
+        "given": "Nicholas A"
+      },
+      {
+        "family": "Westby",
+        "given": "Gael"
+      },
+      {
+        "family": "Shen",
+        "given": "Guomiao"
+      },
+      {
+        "family": "Feng",
+        "given": "Xiaojun"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Genome research",
+    "id": "maurano2020sequencing",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "1781-1788",
+    "publisher": "Cold Spring Harbor Lab",
+    "title": "Sequencing identifies multiple early introductions of SARS-CoV-2 to the new york city region",
+    "type": "article-journal",
+    "volume": "30"
+  },
+  {
+    "author": [
+      {
+        "family": "Khayat",
+        "given": "Andre Salim"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Assumpção",
+        "given": "Paulo Pimentel"
+      },
+      {
+        "family": "Meireles Khayat",
+        "given": "Bruna Claudia"
+      },
+      {
+        "family": "Thomaz Araujo",
+        "given": "Taissa Maira"
+      },
+      {
+        "family": "Batista-Gomes",
+        "given": "Jéssica Almeida"
+      },
+      {
+        "family": "Imbiriba",
+        "given": "Luciana Carvalho"
+      },
+      {
+        "family": "Ishak",
+        "given": "Geraldo"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Assumpção",
+        "given": "Paula Baraúna"
+      },
+      {
+        "family": "Moreira",
+        "given": "Fabiano Cordeiro"
+      },
+      {
+        "family": "Burbano",
+        "given": "Rommel Rodriguez"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "PLoS One",
+    "id": "khayat2020ace2",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "e0243887",
+    "publisher": "Public Library of Science San Francisco, CA USA",
+    "title": "ACE2 polymorphisms as potential players in COVID-19 outcome",
+    "type": "article-journal",
+    "volume": "15"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "dos",
+        "family": "Santos",
+        "given": "Ney Pereira Carneiro"
+      },
+      {
+        "family": "Khayat",
+        "given": "André Salim"
+      },
+      {
+        "family": "Gomes Rodrigues",
+        "given": "Juliana Carla"
+      },
+      {
+        "family": "Pinto",
+        "given": "Pablo"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Araújo",
+        "given": "Gilderlanio Santana"
+      },
+      {
+        "family": "Pastana",
+        "given": "Lucas Favacho"
+      },
+      {
+        "family": "Medeiros",
+        "given": "Jéssyca Amanda Gomes"
+      },
+      {
+        "family": "Fernandes",
+        "given": "Marianne Rodrigues"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Arthur"
+      },
+      {
+        "family": "Meireles Khayat",
+        "given": "Bruna Claudia"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "MedRxiv",
+    "id": "dos2020tmprss2",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "2020-06",
+    "publisher": "Cold Spring Harbor Laboratory Press",
+    "title": "TMPRSS2 variants and their susceptibility to COVID-19: Focus in east asian and european populations",
+    "title-short": "TMPRSS2 variants and their susceptibility to COVID-19",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "de",
+        "family": "Carvalho",
+        "given": "Darlen Cardoso"
+      },
+      {
+        "family": "Wanderley",
+        "given": "Alayde Vieira"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "André Mauricio Ribeiro"
+      },
+      {
+        "family": "Moreira",
+        "given": "Fabiano Cordeiro"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Sá",
+        "given": "Roberta Borges Andrade"
+      },
+      {
+        "family": "Fernandes",
+        "given": "Marianne Rodrigues"
+      },
+      {
+        "family": "Modesto",
+        "given": "Antonio André Conde"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Tatiane Piedade"
+      },
+      {
+        "family": "Cohen-Paes",
+        "given": "Amanda"
+      },
+      {
+        "family": "Leitão",
+        "given": "Luciana Pereira Colares"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Scientific reports",
+    "id": "de2020characterization",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "10292",
+    "publisher": "Nature Publishing Group UK London",
+    "title": "Characterization of pharmacogenetic markers related to acute lymphoblastic leukemia toxicity in amazonian native americans population",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Pinto",
+        "given": "Pablo"
+      },
+      {
+        "dropping-particle": "da",
+        "family": "Silva",
+        "given": "Moisés Batista"
+      },
+      {
+        "family": "Moreira",
+        "given": "Fabiano Cordeiro"
+      },
+      {
+        "family": "Bouth",
+        "given": "Raquel Carvalho"
+      },
+      {
+        "family": "Gobbo",
+        "given": "Angélica Rita"
+      },
+      {
+        "family": "Sandoval",
+        "given": "Tatiana Vinasco"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André Mauricio"
+      },
+      {
+        "family": "Vidal",
+        "given": "Amanda Ferreira"
+      },
+      {
+        "family": "Barreto",
+        "given": "Josafá Gonçalves"
+      },
+      {
+        "family": "Santos",
+        "given": "Sidney"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Scientific reports",
+    "id": "pinto2020leprosy",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "12648",
+    "publisher": "Nature Publishing Group UK London",
+    "title": "Leprosy piRnome: Exploring new possibilities for an old disease",
+    "title-short": "Leprosy piRnome",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Martins",
+        "given": "Danilo L"
+      },
+      {
+        "family": "Campos",
+        "given": "Leonardo RS"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Coelho",
+        "given": "Ana Carolina MF"
+      },
+      {
+        "family": "Dantas",
+        "given": "Renata L"
+      },
+      {
+        "family": "Sobrinho",
+        "given": "Pitágoras AA"
+      },
+      {
+        "family": "Sakamoto",
+        "given": "Tetsu"
+      },
+      {
+        "family": "Vidal",
+        "given": "Amanda F"
+      },
+      {
+        "family": "Vinasco-Sandoval",
+        "given": "Glória T"
+      },
+      {
+        "family": "Assumpção",
+        "given": "Paulo P"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "bioRxiv",
+    "id": "martins2020characterization",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "2020-09",
+    "publisher": "Cold Spring Harbor Laboratory",
+    "title": "Characterization and analysis of the transcriptome in arapaima gigas using multi-tissue RNA-sequencing",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Vidal",
+        "given": "Amanda Ferreira"
+      },
+      {
+        "family": "Vinasco-Sandoval",
+        "given": "Tatiana"
+      },
+      {
+        "family": "Guerreiro",
+        "given": "João"
+      },
+      {
+        "family": "Santos",
+        "given": "Sidney"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Ândrea"
+      },
+      {
+        "family": "De Souza",
+        "given": "Sandro J"
+      }
+    ],
+    "container-title": "Frontiers in Genetics",
+    "id": "ribeiro2020exome",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "548507",
+    "publisher": "Frontiers Media SA",
+    "title": "Exome sequencing of native populations from the amazon reveals patterns on the peopling of south america",
+    "type": "article-journal",
+    "volume": "11"
+  },
+  {
+    "author": [
+      {
+        "family": "Vinasco-Sandoval",
+        "given": "Tatiana"
+      },
+      {
+        "family": "Moreira",
+        "given": "Fabiano Cordeiro"
+      },
+      {
+        "family": "F. Vidal",
+        "given": "Amanda"
+      },
+      {
+        "family": "Pinto",
+        "given": "Pablo"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Cruz",
+        "given": "Rebecca LS"
+      },
+      {
+        "family": "Fonseca Cabral",
+        "given": "Gleyce"
+      },
+      {
+        "family": "Anaissi",
+        "given": "Ana KM"
+      },
+      {
+        "family": "Lopes",
+        "given": "Katia de Paiva"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Arthur"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "International Journal of Molecular Sciences",
+    "id": "vinasco2020global",
+    "issue": "20",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "7656",
+    "publisher": "MDPI",
+    "title": "Global analyses of expressed piwi-interacting RNAs in gastric cancer",
+    "type": "article-journal",
+    "volume": "21"
+  },
+  {
+    "author": [
+      {
+        "family": "Reis",
+        "given": "Larissa B"
+      },
+      {
+        "family": "Bakos",
+        "given": "Renato M"
+      },
+      {
+        "family": "Vianna",
+        "given": "Fernanda SL"
+      },
+      {
+        "family": "Macedo",
+        "given": "Gabriel S"
+      },
+      {
+        "family": "Jacovas",
+        "given": "Vanessa C"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Santos",
+        "given": "Sidney"
+      },
+      {
+        "family": "Bakos",
+        "given": "Lúcio"
+      },
+      {
+        "family": "Ashton-Prolla",
+        "given": "Patricia"
+      }
+    ],
+    "container-title": "BMC cancer",
+    "id": "reis2020skin",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "1-11",
+    "publisher": "BioMed Central",
+    "title": "Skin pigmentation polymorphisms associated with increased risk of melanoma in a case-control sample from southern brazil",
+    "type": "article-journal",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "Silva",
+        "given": "Cleonardo Augusto"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Arthur"
+      },
+      {
+        "family": "Goncalves",
+        "given": "Wanderson Goncalves"
+      },
+      {
+        "family": "Pinto",
+        "given": "Pablo"
+      },
+      {
+        "family": "Pantoja",
+        "given": "Rafael Pompeu"
+      },
+      {
+        "family": "Vinasco-Sandoval",
+        "given": "Tatiana"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Andre Mauricio"
+      },
+      {
+        "family": "Hutz",
+        "given": "Mara Helena"
+      },
+      {
+        "family": "Vidal",
+        "given": "Amanda Ferreira"
+      },
+      {
+        "family": "Araujo",
+        "given": "Gilderlanio Santana"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "International journal of molecular sciences",
+    "id": "silva2021can",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "3674",
+    "publisher": "MDPI",
+    "title": "Can miRNA indicate risk of illness after continuous exposure to m. tuberculosis?",
+    "type": "article-journal",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "Yan",
+        "given": "Jian"
+      },
+      {
+        "family": "Qiu",
+        "given": "Yunjiang"
+      },
+      {
+        "family": "Ribeiro dos Santos",
+        "given": "Andre M"
+      },
+      {
+        "family": "Yin",
+        "given": "Yimeng"
+      },
+      {
+        "family": "Li",
+        "given": "Yang E"
+      },
+      {
+        "family": "Vinckier",
+        "given": "Nick"
+      },
+      {
+        "family": "Nariai",
+        "given": "Naoki"
+      },
+      {
+        "family": "Benaglio",
+        "given": "Paola"
+      },
+      {
+        "family": "Raman",
+        "given": "Anugraha"
+      },
+      {
+        "family": "Li",
+        "given": "Xiaoyu"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "yan2021systematic",
+    "issue": "7848",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "147-151",
+    "publisher": "Nature Publishing Group UK London",
+    "title": "Systematic analysis of binding of transcription factors to noncoding variants",
+    "type": "article-journal",
+    "volume": "591"
+  },
+  {
+    "author": [
+      {
+        "family": "Vidal",
+        "given": "Amanda Ferreira"
+      },
+      {
+        "family": "Ferraz",
+        "given": "Rafaella Sousa"
+      },
+      {
+        "family": "El-Husny",
+        "given": "Antonette"
+      },
+      {
+        "family": "Silva",
+        "given": "Caio Santos"
+      },
+      {
+        "family": "Vinasco-Sandoval",
+        "given": "Tatiana"
+      },
+      {
+        "family": "Magalhães",
+        "given": "Leandro"
+      },
+      {
+        "family": "Raiol-Moraes",
+        "given": "Milene"
+      },
+      {
+        "family": "Barra",
+        "given": "Williams Fernandes"
+      },
+      {
+        "family": "Pereira",
+        "given": "Cynthia Lara Brito Lins"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Assumpção",
+        "given": "Paulo Pimentel"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "BMC cancer",
+    "id": "vidal2021comprehensive",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "page": "1-8",
+    "publisher": "BioMed Central",
+    "title": "Comprehensive analysis of germline mutations in northern brazil: A panel of 16 genes for hereditary cancer-predisposing syndrome investigation",
+    "title-short": "Comprehensive analysis of germline mutations in northern brazil",
+    "type": "article-journal",
+    "volume": "21"
+  },
+  {
+    "author": [
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Hogan",
+        "given": "Megan S"
+      },
+      {
+        "family": "Luther",
+        "given": "Raven D"
+      },
+      {
+        "family": "Brosh",
+        "given": "Ran"
+      },
+      {
+        "family": "Maurano",
+        "given": "Matthew T"
+      }
+    ],
+    "container-title": "Genome Research",
+    "id": "ribeiro2022genomic",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "425-436",
+    "publisher": "Cold Spring Harbor Lab",
+    "title": "Genomic context sensitivity of insulator function",
+    "type": "article-journal",
+    "volume": "32"
+  },
+  {
+    "author": [
+      {
+        "family": "Pastana",
+        "given": "Lucas Favacho"
+      },
+      {
+        "family": "Silva",
+        "given": "Thays Amâncio"
+      },
+      {
+        "family": "Gellen",
+        "given": "Laura Patrı́cia Albarello"
+      },
+      {
+        "family": "Vieira",
+        "given": "Giovana Miranda"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Assunção",
+        "given": "Letı́cia Almeida"
+      },
+      {
+        "family": "Leitão",
+        "given": "Luciana Pereira Colares"
+      },
+      {
+        "dropping-particle": "da",
+        "family": "Silva",
+        "given": "Natasha Monte"
+      },
+      {
+        "family": "Coelho",
+        "given": "Rita de Cássia Calderaro"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Alcântara",
+        "given": "Angélica Leite"
+      },
+      {
+        "family": "Vinagre",
+        "given": "Lui Wallacy Morikawa Souza"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Journal of Personalized Medicine",
+    "id": "pastana2022genomic",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "554",
+    "publisher": "MDPI",
+    "title": "The genomic profile associated with risk of severe forms of COVID-19 in amazonian native american populations",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "Leitão",
+        "given": "Luciana PC"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Carvalho",
+        "given": "Darlen C"
+      },
+      {
+        "family": "Rodrigues",
+        "given": "Juliana CG"
+      },
+      {
+        "family": "Fernandes",
+        "given": "Marianne R"
+      },
+      {
+        "family": "Wanderley",
+        "given": "Alayde V"
+      },
+      {
+        "family": "Vinagre",
+        "given": "Lui WMS"
+      },
+      {
+        "dropping-particle": "da",
+        "family": "Silva",
+        "given": "Natasha M"
+      },
+      {
+        "family": "Pastana",
+        "given": "Lucas F"
+      },
+      {
+        "family": "Gellen",
+        "given": "Laura PA"
+      },
+      {
+        "family": "Assunção",
+        "given": "Matheus CE"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Journal of Personalized Medicine",
+    "id": "leitao2022identification",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "856",
+    "publisher": "MDPI",
+    "title": "Identification of genomic variants associated with the risk of acute lymphoblastic leukemia in native americans from brazilian amazonia",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodrigues",
+        "given": "Juliana Carla Gomes"
+      },
+      {
+        "family": "Fernades",
+        "given": "Marianne Rodrigues"
+      },
+      {
+        "family": "Barra",
+        "given": "Williams Fernandes"
+      },
+      {
+        "family": "Pereira",
+        "given": "Esdras Edgar Batista"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André"
+      },
+      {
+        "family": "Assumpção",
+        "given": "Paulo Pimentel"
+      },
+      {
+        "family": "Guerreiro",
+        "given": "João Farias"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Andrea"
+      },
+      {
+        "dropping-particle": "dos",
+        "family": "Santos",
+        "given": "Sidney Emanuel Batista"
+      },
+      {
+        "dropping-particle": "dos",
+        "family": "Santos",
+        "given": "Ney Pereira Carneiro"
+      }
+    ],
+    "id": "rodrigues2022identification",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher": "American Society of Clinical Oncology",
+    "title": "Identification of pharmacogenomic variants associated with oncology treatments in brazilian amazonian amerindians.",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "AM"
+      },
+      {
+        "family": "Souza",
+        "given": "JE"
+      },
+      {
+        "family": "Almeida",
+        "given": "R"
+      },
+      {
+        "family": "Alencar",
+        "given": "DO"
+      },
+      {
+        "family": "Barbosa",
+        "given": "MSR"
+      },
+      {
+        "family": "Gusmão",
+        "given": "L"
+      },
+      {
+        "dropping-particle": "da",
+        "family": "Silva Júnior",
+        "given": "Wilson Araújo"
+      },
+      {
+        "family": "Souza",
+        "given": "SJ"
+      },
+      {
+        "family": "Silva",
+        "given": "A"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "A"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Abstracts",
+    "id": "ribeiro2013discovery",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "title": "Discovery of new SNPs and INDELs variants in a native south america individual",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodrigues",
+        "given": "Juliana Carla Gomes"
+      },
+      {
+        "family": "Fernandes",
+        "given": "Marianne Rodrigues"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André Maurı́cio"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Araújo",
+        "given": "Gilderlanio Santana"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Sandro José"
+      },
+      {
+        "family": "Guerreiro",
+        "given": "João Farias"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Ândrea"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Assumpção",
+        "given": "Paulo Pimentel"
+      },
+      {
+        "dropping-particle": "dos",
+        "family": "Santos",
+        "given": "Ney Pereira Carneiro"
+      },
+      {
+        "family": "Santos",
+        "given": "Sidney"
+      }
+    ],
+    "container-title": "Journal of Personalized Medicine",
+    "id": "rodrigues2022pharmacogenomic",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "952",
+    "publisher": "MDPI",
+    "title": "Pharmacogenomic profile of amazonian amerindians",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "Magalhães",
+        "given": "Leandro"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Cruz",
+        "given": "Rebecca L"
+      },
+      {
+        "family": "Nakamura",
+        "given": "Kivvi Duarte de Mello"
+      },
+      {
+        "family": "Brianese",
+        "given": "Rafael"
+      },
+      {
+        "family": "Burbano",
+        "given": "Rommel"
+      },
+      {
+        "family": "Ferreira",
+        "given": "Sâmio Pimentel"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Oliveira",
+        "given": "Ewaldo Lúcio Foro"
+      },
+      {
+        "family": "Anaissi",
+        "given": "Ana Karyssa Mendes"
+      },
+      {
+        "family": "Nahúm",
+        "given": "Márcia Cristina de Sousa"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Cancers",
+    "id": "magalhaes2022triple",
+    "issue": "13",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "3280",
+    "publisher": "MDPI",
+    "title": "Triple-negative breast cancer circRNAome reveals hsa_circ_0072309 as a potential risk biomarker",
+    "type": "article-journal",
+    "volume": "14"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "de",
+        "family": "Assumpção",
+        "given": "Paula Baraúna"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Assumpção",
+        "given": "Paulo Pimentel"
+      },
+      {
+        "family": "Moreira",
+        "given": "Fabiano Cordeiro"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Ândrea"
+      },
+      {
+        "family": "Vidal",
+        "given": "Amanda F"
+      },
+      {
+        "family": "Magalhães",
+        "given": "Leandro"
+      },
+      {
+        "family": "Khayat",
+        "given": "André Salim"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André Maurı́cio"
+      },
+      {
+        "family": "Cavalcante",
+        "given": "Giovanna C"
+      },
+      {
+        "family": "Pereira",
+        "given": "Adenilson Leão"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Cancers",
+    "id": "de2022incidence",
+    "issue": "24",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "page": "6125",
+    "publisher": "MDPI",
+    "title": "Incidence of hereditary gastric cancer may be much higher than reported",
+    "type": "article-journal",
+    "volume": "14"
+  },
+  {
+    "author": [
+      {
+        "family": "Brosh",
+        "given": "Ran"
+      },
+      {
+        "family": "Coelho",
+        "given": "Camila"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Ellis",
+        "given": "Gwen"
+      },
+      {
+        "family": "Hogan",
+        "given": "Megan S"
+      },
+      {
+        "family": "Ashe",
+        "given": "Hannah J"
+      },
+      {
+        "family": "Somogyi",
+        "given": "Nicolette"
+      },
+      {
+        "family": "Ordoñez",
+        "given": "Raquel"
+      },
+      {
+        "family": "Luther",
+        "given": "Raven D"
+      },
+      {
+        "family": "Huang",
+        "given": "Emily"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Molecular cell",
+    "id": "brosh2023synthetic",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "1140-1152",
+    "publisher": "Elsevier",
+    "title": "Synthetic regulatory genomics uncovers enhancer context dependence at the Sox2 locus",
+    "type": "article-journal",
+    "volume": "83"
+  },
+  {
+    "author": [
+      {
+        "family": "Monte",
+        "given": "Natasha"
+      },
+      {
+        "family": "Rodrigues",
+        "given": "Juliana Carla Gomes"
+      },
+      {
+        "family": "Vinagre",
+        "given": "Lui Wallacy Morikawa Souza"
+      },
+      {
+        "family": "Pastana",
+        "given": "Lucas Favacho"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Alcântara",
+        "given": "Angélica Leite"
+      },
+      {
+        "family": "Leitão",
+        "given": "Luciana Pereira Colares"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André Maurı́cio"
+      },
+      {
+        "family": "Fernandes",
+        "given": "Marianne Rodrigues"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Ândrea"
+      },
+      {
+        "family": "Guerreiro",
+        "given": "João Farias"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Diabetes Research and Clinical Practice",
+    "id": "monte2023epidemiological",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "110641",
+    "publisher": "Elsevier",
+    "title": "Epidemiological-molecular profile of variants associated with type 2 diabetes mellitus in indigenous populations from the brazilian amazon",
+    "type": "article-journal",
+    "volume": "199"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "da",
+        "family": "Silva",
+        "given": "Vandeclécio Lira"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "André Mauricio Ribeiro"
+      },
+      {
+        "family": "Blanco",
+        "given": "Wilfredo"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Sandro José"
+      }
+    ],
+    "container-title": "Science China Life Sciences",
+    "id": "da2019gain",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "526-534",
+    "publisher": "Science China Press",
+    "title": "Gain of transcription factor binding sites is associated to changes in the expression signature of human brain and testis and is correlated to genes with higher expression breadth",
+    "type": "article-journal",
+    "volume": "62"
+  },
+  {
+    "author": [
+      {
+        "family": "Ordoñez",
+        "given": "Raquel"
+      },
+      {
+        "family": "Zhang",
+        "given": "Weimin"
+      },
+      {
+        "family": "Ellis",
+        "given": "Gwen"
+      },
+      {
+        "family": "Zhu",
+        "given": "Yinan"
+      },
+      {
+        "family": "Ashe",
+        "given": "Hannah J"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Brosh",
+        "given": "Ran"
+      },
+      {
+        "family": "Huang",
+        "given": "Emily"
+      },
+      {
+        "family": "Hogan",
+        "given": "Megan S"
+      },
+      {
+        "family": "Boeke",
+        "given": "Jef D"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Molecular cell",
+    "id": "ordonez2024genomic",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "1842-1854",
+    "publisher": "Elsevier",
+    "title": "Genomic context sensitizes regulatory elements to genetic disruption",
+    "type": "article-journal",
+    "volume": "84"
+  },
+  {
+    "author": [
+      {
+        "family": "Aguiar",
+        "given": "Kaio Evandro Cardoso"
+      },
+      {
+        "family": "Oliveira",
+        "given": "Izabela De Sousa"
+      },
+      {
+        "family": "Cohen-Paes",
+        "given": "Amanda De Nazaré"
+      },
+      {
+        "family": "Coelho",
+        "given": "Rita De Cássia Calderaro"
+      },
+      {
+        "family": "Vinagre",
+        "given": "Lui Wallacy Morikawa Souza"
+      },
+      {
+        "family": "Rodrigues",
+        "given": "Juliana Carla Gomes"
+      },
+      {
+        "family": "Ribeiro-Dos-Santos",
+        "given": "André Maurı́cio"
+      },
+      {
+        "family": "De Souza",
+        "given": "Sandro José"
+      },
+      {
+        "family": "Ribeiro-Dos-Santos",
+        "given": "Ândrea"
+      },
+      {
+        "family": "Guerreiro",
+        "given": "João Farias"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Journal of Personalized Medicine",
+    "id": "aguiar2023molecular",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "1364",
+    "publisher": "MDPI",
+    "title": "Molecular profile of variants in CDH1, TP53, PSCA, PRKAA1, and TTN genes related to gastric cancer susceptibility in amazonian indigenous populations",
+    "type": "article-journal",
+    "volume": "13"
+  },
+  {
+    "author": [
+      {
+        "family": "Valente Carvalho",
+        "given": "Victor Hugo"
+      },
+      {
+        "family": "Rodrigues",
+        "given": "Juliana Carla Gomes"
+      },
+      {
+        "family": "Vinagre",
+        "given": "Lui Wallacy Morikawa Souza"
+      },
+      {
+        "family": "Pereira",
+        "given": "Esdras Edgar Batista"
+      },
+      {
+        "family": "Monte",
+        "given": "Natasha"
+      },
+      {
+        "family": "Fernandes",
+        "given": "Marianne Rodrigues"
+      },
+      {
+        "family": "Ribero-dos-Santos",
+        "given": "André Maurı́cio"
+      },
+      {
+        "family": "Guerreiro",
+        "given": "João Farias"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Ândre"
+      },
+      {
+        "dropping-particle": "dos",
+        "family": "Santos",
+        "given": "Sidney Emanuel Batistas"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Available at SSRN 4601835",
+    "id": "valente4601835genomic",
+    "title": "Genomic surveillance on mercury toxicokinetics in amazonian indigenous populations",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Weimin"
+      },
+      {
+        "family": "Golynker",
+        "given": "Ilona"
+      },
+      {
+        "family": "Brosh",
+        "given": "Ran"
+      },
+      {
+        "family": "Fajardo",
+        "given": "Alvaro"
+      },
+      {
+        "family": "Zhu",
+        "given": "Yinan"
+      },
+      {
+        "family": "Wudzinska",
+        "given": "Aleksandra M"
+      },
+      {
+        "family": "Ordoñez",
+        "given": "Raquel"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Carrau",
+        "given": "Lucia"
+      },
+      {
+        "family": "Damani-Yokota",
+        "given": "Payal"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Nature",
+    "id": "zhang2023mouse",
+    "issue": "7986",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "423-431",
+    "publisher": "Nature Publishing Group UK London",
+    "title": "Mouse genome rewriting and tailoring of three important disease loci",
+    "type": "article-journal",
+    "volume": "623"
+  },
+  {
+    "author": [
+      {
+        "family": "Carvalho",
+        "given": "Victor Hugo Valente"
+      },
+      {
+        "family": "Rodrigues",
+        "given": "Juliana Carla Gomes"
+      },
+      {
+        "family": "Vinagre",
+        "given": "Lui Wallacy Morikawa Souza"
+      },
+      {
+        "family": "Pereira",
+        "given": "Esdras Edgar Batista"
+      },
+      {
+        "family": "Monte",
+        "given": "Natasha"
+      },
+      {
+        "family": "Fernandes",
+        "given": "Marianne Rodrigues"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André Maurı́cio"
+      },
+      {
+        "family": "Guerreiro",
+        "given": "João Farias"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Ândrea"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "Sidney Emanuel Batista"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Science of The Total Environment",
+    "id": "carvalho2024genomic",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "171232",
+    "publisher": "Elsevier",
+    "title": "Genomic investigation on genes related to mercury metabolism in amazonian indigenous populations",
+    "type": "article-journal",
+    "volume": "923"
+  },
+  {
+    "author": [
+      {
+        "family": "Coelho",
+        "given": "Rita de Cássia Calderaro"
+      },
+      {
+        "family": "Martins",
+        "given": "Carlliane Lima e Lins Pinto"
+      },
+      {
+        "family": "Pastana",
+        "given": "Lucas Favacho"
+      },
+      {
+        "family": "Rodrigues",
+        "given": "Juliana Carla Gomes"
+      },
+      {
+        "family": "Aguiar",
+        "given": "Kaio Evandro Cardoso"
+      },
+      {
+        "family": "Cohen-Paes",
+        "given": "Amanda de Nazaré"
+      },
+      {
+        "family": "Gellen",
+        "given": "Laura Patrı́cia Albarello"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Moraes",
+        "given": "Francisco Cezar Aquino"
+      },
+      {
+        "family": "Calderaro",
+        "given": "Maria Clara Leite"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Assunção",
+        "given": "Letı́cia Almeida"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Viruses",
+    "id": "coelho2024molecular",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "359",
+    "publisher": "MDPI",
+    "title": "Molecular profile of variants potentially associated with severe forms of COVID-19 in amazonian indigenous populations",
+    "type": "article-journal",
+    "volume": "16"
+  },
+  {
+    "author": [
+      {
+        "family": "Van Den Berg",
+        "given": "Ana Virgı́nia"
+      },
+      {
+        "family": "Magalhães",
+        "given": "Leandro"
+      },
+      {
+        "family": "Vidal",
+        "given": "Amanda Ferreira"
+      },
+      {
+        "family": "Cruz",
+        "given": "Aline Maria Pereira"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Â"
+      }
+    ],
+    "container-title": "J Leuk",
+    "id": "van2015micrornas",
+    "issue": "04",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "1-6",
+    "title": "MicroRNAs as biomarkers of the response to treatment with ABVD scheme in hodgkin lymphoma",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "Alser",
+        "given": "Mohammed"
+      },
+      {
+        "family": "Lawlor",
+        "given": "Brendan"
+      },
+      {
+        "family": "Abdill",
+        "given": "Richard J"
+      },
+      {
+        "family": "Waymost",
+        "given": "Sharon"
+      },
+      {
+        "family": "Ayyala",
+        "given": "Ram"
+      },
+      {
+        "family": "Rajkumar",
+        "given": "Neha"
+      },
+      {
+        "family": "LaPierre",
+        "given": "Nathan"
+      },
+      {
+        "family": "Brito",
+        "given": "Jaqueline"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Almadhoun",
+        "given": "Nour"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Nature Protocols",
+    "id": "alser2024packaging",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "2529-2539",
+    "publisher": "Nature Publishing Group UK London",
+    "title": "Packaging and containerization of computational methods",
+    "type": "article-journal",
+    "volume": "19"
+  },
+  {
+    "author": [
+      {
+        "family": "Leitão",
+        "given": "Luciana Pereira Colares"
+      },
+      {
+        "family": "Monte",
+        "given": "Natasha"
+      },
+      {
+        "family": "Rodrigues",
+        "given": "Juliana Carla Gomes"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Freitas",
+        "given": "Lilian Marques"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André Maurı́cio"
+      },
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "Ândrea"
+      },
+      {
+        "family": "Santos",
+        "given": "Sidney"
+      },
+      {
+        "dropping-particle": "de",
+        "family": "Souza",
+        "given": "Sandro José"
+      },
+      {
+        "family": "Fernandes",
+        "given": "Marianne Rodrigues"
+      },
+      {
+        "family": "Dos Santos",
+        "given": "Ney Pereira Carneiro"
+      }
+    ],
+    "container-title": "Scientific Reports",
+    "id": "leitao2024severe",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "29344",
+    "publisher": "Nature Publishing Group UK London",
+    "title": "Severe toxicities in amazonian populations and the role of precision medicine in acute lymphoblastic leukemia treatment",
+    "type": "article-journal",
+    "volume": "14"
+  },
+  {
+    "author": [
+      {
+        "family": "Ribeiro-dos-Santos",
+        "given": "André M"
+      },
+      {
+        "family": "Maurano",
+        "given": "Matthew T"
+      }
+    ],
+    "container-title": "bioRxiv",
+    "id": "ribeiro2025iterative",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "2025-02",
+    "publisher": "Cold Spring Harbor Laboratory",
+    "title": "Iterative improvement of deep learning models using synthetic regulatory genomics",
+    "type": "article-journal"
+  }
+]

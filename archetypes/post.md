@@ -1,0 +1,27 @@
+---
+title: "Hello World"
+date: '{{ time.Now.Format "2006-01-02" }}'
+tags: ["blog"]
+author: "André M. Ribeiro-dos-Santos"
+description: "Desc Text."
+showToc: true
+disableHLJS: true # to disable highlightjs
+# cover:
+#     image: "<image path/url>" # image path/url
+#     alt: "<alt text>" # alt text
+#     caption: "<text>" # display caption under cover
+#     relative: false # when using page bundles set this to true
+#     hidden: true # only hide on current single page
+---
+
+## Hello
+
+```python
+def main() -> str:
+    return "Hello World"
+
+if __name__ == "__main__":
+    print(main())
+```
+
+## World
